@@ -6,7 +6,7 @@
 ---
 
 
-### Install Docker in Ubuntu [Doc](https://caprover.com/docs/get-started.html#step-1-caprover-installation)
+### Install Docker in Ubuntu [Doc](https://docs.docker.com/engine/install/ubuntu/)
 
 ```sh
 sudo apt-get update
@@ -14,7 +14,7 @@ sudo apt-get install curl
 sudo curl -sS https://get.docker.com/ | sh
 ```
 
-### Install CapRover [Doc](https://docs.docker.com/engine/install/ubuntu/)
+### Install CapRover [Doc](https://caprover.com/docs/get-started.html#step-1-caprover-installation)
 ```sh
 docker run -p 80:80 -p 443:443 -p 3000:3000 -e ACCEPTED_TERMS=true -v /var/run/docker.sock:/var/run/docker.sock -v /captain:/captain caprover/caprover
 ```

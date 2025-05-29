@@ -1,7 +1,7 @@
 # Simple Project for Deploying with CapRover
 
 ### Tutorial Video(Farsi):
-> https://youtube.com/c/AmirMotahari
+> https://youtu.be/h95EckycMLg?si=HDgm_8UxBGJRwx0x
 
 ---
 
